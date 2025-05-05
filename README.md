@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WilsonWalrus
-- 👀 I’m interested in learning some C.
+- 👀 I’m interested in learning some Python & MatLab.
 - 🌱 I’m currently studying Mechanical Engineering @ UCF!
 - 📫 How to reach me: do not percieve me, i do not exist
 - 😄 Pronouns: He/him
